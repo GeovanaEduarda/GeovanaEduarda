@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Geovana 👋
 
-<!--
-**GeovanaEduarda/GeovanaEduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Desenvolvimento Web**, com interesse em **front-end** e **back-end**.  
+🚀 Busco sempre aprender novas tecnologias e melhorar minhas habilidades em programação.  
 
-Here are some ideas to get you started:
+### 🔧 Tecnologias que estudo atualmente:
+- HTML, CSS e JavaScript  
+- PHP  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos
+- [desafio-binario](https://github.com/GeovanaEduarda/desafio-binario) → Projeto que recebe a URL de um site e retorna todo o conteúdo da página convertido em binário.
+
+---
+
+📫 Você pode entrar em contato comigo pelo GitHub mesmo!  
