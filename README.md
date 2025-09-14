@@ -1,4 +1,4 @@
-echo "# Geovana Eduarda
+# Geovana Eduarda
 
 💻 Estudante de **Desenvolvimento Web**, com interesse em **front-end** e **back-end**.  
 📚 Atualmente no **Ensino Médio**, também estudo **Python**, **APIs** e **Segurança Cibernética**.  
@@ -24,4 +24,4 @@ echo "# Geovana Eduarda
 ---
 
 ### 📫 Contato
-Você pode entrar em contato comigo aqui mesmo pelo **GitHub**." > README.md
+Você pode entrar em contato comigo aqui mesmo pelo **GitHub**.
