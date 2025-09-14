@@ -1,4 +1,4 @@
-# Olá, eu sou a Geovana 👋
+# Olá, me chamo Geovana Eduarda
 
 💻 Estudante de **Desenvolvimento Web** e atualmente cursando o **ensino médio**.  
 🚀 Interessada em **front-end**, **back-end**, **APIs** e também explorando a área de **Segurança Cibernética**.  
