@@ -10,9 +10,8 @@
 - HTML, CSS e JavaScript  
 - PHP  
 - Python  
-- Git & GitHub  
-- APIs REST  
-- Conceitos de Segurança Cibernética  
+- APIs
+- Segurança Cibernética  
 
 ---
 
