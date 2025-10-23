@@ -11,7 +11,8 @@
 - PHP  
 - Python  
 - APIs
-- Segurança Cibernética  
+- Segurança Cibernética
+- Java
 
 ---
 
